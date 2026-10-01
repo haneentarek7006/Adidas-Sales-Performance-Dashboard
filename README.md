@@ -2,7 +2,7 @@
 
 An interactive multi-perspective Power BI dashboard analyzing Adidas sales performance, profit margins, product categories, retailers, and sales methods across US regions between 2020 and 2021.
 
-![Adidas Sales Performance Dashboard](adidas_dashboard.png)
+![Adidas Sales Performance Dashboard](Screenshot%202026-09-12%20032228.png)
 
 ---
 
